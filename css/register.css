@@ -1,0 +1,127 @@
+.wrap {
+  width: 1200px;
+  margin: 0 auto;
+}
+header .hd {
+  height: 100px;
+  padding-top: 30px;
+  border-bottom: 2px solid #b1191a;
+}
+.regiterarea {
+  border: 1px solid #ececec;
+}
+.regiterarea {
+  height: 520px;
+  margin-top: 30px;
+}
+.regiterarea .bodyh {
+  padding: 10px;
+  height: 42px;
+  background-color: #ececec;
+}
+.regiterarea .bodyh .bodyhl {
+  float: left;
+  font-size: 18px;
+  color: #333333;
+}
+.regiterarea .bodyh .bodyhr {
+  float: right;
+  font-size: 16px;
+  color: #333333;
+}
+.regiterarea .bodyh .bodyhr a {
+  color: #c51929;
+}
+.regiterarea .reg_form {
+  width: 600px;
+  margin: 50px auto 0;
+}
+.regiterarea .reg_form input {
+  width: 240px;
+  height: 30px;
+  border: 1px solid #e4e4e4;
+}
+.regiterarea .reg_form ul li {
+  margin-bottom: 30px;
+}
+.regiterarea .reg_form ul li .span {
+  font-size: 12px;
+  color: #df3033;
+  margin-left: 5px;
+}
+.regiterarea .reg_form ul li label {
+  display: inline-table;
+  text-align: right;
+  width: 100px;
+  font-size: 14px;
+  color: #4d4d4d;
+}
+.regiterarea .reg_form ul li:nth-child(4) {
+  text-align: center;
+  color: #b3b3b3;
+  font-size: 12px;
+  margin-right: 52px;
+}
+
+.regiterarea .reg_form ul li:nth-child(4) .aq1 {
+  display: inline-block;
+  margin-left: 2px;
+  width: 30px;
+  background-color: #de1111;
+  color: #fff;
+}
+.regiterarea .reg_form ul li:nth-child(4) .aq2 {
+  display: inline-block;
+  margin-left: 2px;
+  width: 30px;
+  background-color: #40b83f;
+  color: #fff;
+}
+.regiterarea .reg_form ul li:nth-child(4) .aq3 {
+  display: inline-block;
+  margin-left: 2px;
+  width: 30px;
+  background-color: #f79100;
+  color: #fff;
+}
+.regiterarea .reg_form ul li:nth-child(6) {
+  margin-left: 95px;
+  font-size: 12px;
+  color: #4d4d4d;
+}
+.regiterarea .reg_form ul li:nth-child(6) span {
+  color: #1ba1e6;
+}
+.regiterarea .reg_form ul li:nth-child(6) input {
+  margin-right: 7px;
+  vertical-align: middle;
+  width: 12px;
+  height: 12px;
+}
+/* .regiterarea .reg_form ul li:last-child {
+  display: block;
+  line-height: 35px;
+  margin-left: 95px;
+  margin-top: 30px;
+  text-align: center;
+  width: 200px;
+  height: 35px;
+  font-size: 14px;
+  color: #fff;
+  background-color: #c81623;
+} */
+.btn {
+  margin-left: 95px;
+  color: #fff;
+  background-color: #c81623;
+}
+.zq {
+  color: green;
+  font-size: 12px;
+  margin-left: 5px;
+}
+.wrong {
+  color: #c81623;
+  font-size: 12px;
+  margin-left: 5px;
+}

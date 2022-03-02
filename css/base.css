@@ -1,0 +1,55 @@
+/* 清除标签的内外边距 */
+p,
+ul,
+ol,
+dl,
+dt,
+dd,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+img,
+div,
+html,
+body,
+form,
+legend,
+fieldset {
+  margin: 0;
+  padding: 0;
+  /* CSS3盒子模型 */
+  box-sizing: border-box;
+}
+/* 清除文字倾斜 */
+em,
+i {
+  font-style: normal;
+}
+/* 去掉li的小圆点 */
+li {
+  list-style: none;
+}
+
+img {
+  /* 取消图片底部空白间隙问题 */
+  vertical-align: middle;
+  /* 兼容低版本浏览器，解决图片链接有边问题 */
+}
+button {
+  /* 鼠标经过button按钮时，鼠标变成小手 */
+  cursor: pointer;
+}
+a {
+  /* 更改超链接颜色 */
+  color: #666;
+  /* 取消超链接下划线 */
+  text-decoration: none;
+}
+input,
+button {
+  border: 0;
+  outline: none;
+}

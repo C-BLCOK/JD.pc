@@ -1,0 +1,87 @@
+.ms {
+  position: absolute;
+  left: 186px;
+  top: 40px;
+  width: 88px;
+  height: 33px;
+  border-left: 2px solid #c81523;
+  line-height: 33px;
+  text-align: center;
+}
+.nav .nav_box .navl {
+  float: left;
+}
+.nav .nav_box .navl ul li {
+  float: left;
+  margin: 11px 30px;
+  font-weight: 700;
+}
+.nav .nav_box .navitems {
+  float: right;
+}
+.lbody2 {
+  overflow: hidden;
+  background-color: #ffffff;
+}
+
+.lbody2 .lbody2_list ul li {
+  margin-top: 30px;
+  float: left;
+  width: 298px;
+  border: 1px solid transparent;
+}
+.lbody2 .lbody2_list ul li:hover {
+  border: 1px solid #e60012;
+}
+.lbody2 .lbody2_list ul li img {
+  height: 298px;
+}
+.lbody2 .lbody2_list ul li .jg {
+  margin-top: 5px;
+  width: 160px;
+  height: 22px;
+  text-align: center;
+  overflow: hidden;
+}
+.lbody2 .lbody2_list ul li .jg h2 {
+  float: left;
+  color: #e60012;
+  line-height: 22px;
+}
+.lbody2 .lbody2_list ul li .jg span {
+  float: left;
+  margin-top: 3px;
+  margin-left: 10px;
+  color: #b6b6b6;
+  font-weight: 700;
+  text-decoration: line-through;
+}
+.lbody2 .lbody2_list ul li .jd {
+  height: 40px;
+  font-size: 12px;
+  line-height: 40px;
+}
+.lbody2 .lbody2_list ul li .jd .jd1 {
+  float: left;
+  width: 60px;
+}
+.lbody2 .lbody2_list ul li .jd .jd2 {
+  float: left;
+  width: 135px;
+  height: 10px;
+  border-radius: 5px;
+  margin: 15px 10px;
+  border: 1px solid #ed282e;
+}
+.lbody2 .lbody2_list ul li .jd .jd22 {
+  width: 125px;
+  height: 9px;
+
+  background-color: #ed282e;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+.lbody2 .lbody2_list ul li .jd .jd3 {
+  float: left;
+  width: 60px;
+}
